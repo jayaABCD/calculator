@@ -1,0 +1,49 @@
+body{
+    background:linear-gradient(45deg, #0a0a0a,#3a4452);
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+#display{
+    width: 370px;
+    height: 490px;
+    border: 1px solid rgb(240, 236, 236);
+    border-radius: 20px;
+    text-align: center;
+    margin: 55px;
+    margin-left:37% ;
+}
+#show{
+    width: 320px;
+    height: 30%;
+    border: none;
+    outline: none;
+    background-color: rgba(233, 229, 229,0.2);
+    border-radius: 20px;
+    color: white;
+    margin: 22px;
+    margin-top: 11px;
+    text-align: right;
+    font-size: 40px;
+}
+::placeholder{
+    color: white;
+}
+.btn{
+    width: 80px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    font-size: 22px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+
+#sym{
+    color: green;
+}
+#eq{
+    background-color: rgb(241, 204, 58);
+}
